@@ -2039,6 +2039,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "issue_3901"
+version = "0.1.0"
+dependencies = [
+ "bevy",
+]
+
+[[package]]
 name = "itoa"
 version = "1.0.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
